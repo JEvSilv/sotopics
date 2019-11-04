@@ -1,0 +1,1200 @@
+----------------
+Name: systemd
+voluntary_ctxt_switches: 9578 nonvoluntary_ctxt_switches: 242
+----------------
+----------------
+Name: migration/0
+voluntary_ctxt_switches: 2569 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: python
+voluntary_ctxt_switches: 84 nonvoluntary_ctxt_switches: 7
+----------------
+----------------
+Name: install-mendele
+voluntary_ctxt_switches: 11 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: mendeleydesktop
+voluntary_ctxt_switches: 2121205 nonvoluntary_ctxt_switches: 6185
+----------------
+----------------
+Name: acpid
+voluntary_ctxt_switches: 108529 nonvoluntary_ctxt_switches: 90
+----------------
+----------------
+Name: QtWebEngineProc
+voluntary_ctxt_switches: 21 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: QtWebEngineProc
+voluntary_ctxt_switches: 4 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: QtWebEngineProc
+voluntary_ctxt_switches: 3585 nonvoluntary_ctxt_switches: 23
+----------------
+----------------
+Name: thermald
+voluntary_ctxt_switches: 1258 nonvoluntary_ctxt_switches: 44
+----------------
+----------------
+Name: NetworkManager
+voluntary_ctxt_switches: 3386 nonvoluntary_ctxt_switches: 164
+----------------
+----------------
+Name: notify-osd
+voluntary_ctxt_switches: 122838 nonvoluntary_ctxt_switches: 627
+----------------
+----------------
+Name: watchdog/0
+voluntary_ctxt_switches: 108908 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: cpuhp/0
+voluntary_ctxt_switches: 18 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: colord
+voluntary_ctxt_switches: 365 nonvoluntary_ctxt_switches: 22
+----------------
+----------------
+Name: irqbalance
+voluntary_ctxt_switches: 43560 nonvoluntary_ctxt_switches: 57
+----------------
+----------------
+Name: polkitd
+voluntary_ctxt_switches: 11963 nonvoluntary_ctxt_switches: 81
+----------------
+----------------
+Name: kthrotld
+voluntary_ctxt_switches: 2 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: acpi_thermal_pm
+voluntary_ctxt_switches: 2 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: cpuhp/1
+voluntary_ctxt_switches: 18 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: ipv6_addrconf
+voluntary_ctxt_switches: 2 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: iprt-VBoxWQueue
+voluntary_ctxt_switches: 2 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: iprt-VBoxTscThr
+voluntary_ctxt_switches: 7093 nonvoluntary_ctxt_switches: 1
+----------------
+----------------
+Name: unattended-upgr
+voluntary_ctxt_switches: 261 nonvoluntary_ctxt_switches: 22
+----------------
+----------------
+Name: watchdog/1
+voluntary_ctxt_switches: 108908 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: kstrp
+voluntary_ctxt_switches: 2 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: ctx_stats.sh
+Name: ctx_stats.sh voluntary_ctxt_switches: 166 nonvoluntary_ctxt_switches: 2
+----------------
+----------------
+
+
+----------------
+----------------
+
+
+----------------
+----------------
+
+
+----------------
+----------------
+
+
+----------------
+----------------
+Name: libvirtd
+voluntary_ctxt_switches: 13025 nonvoluntary_ctxt_switches: 121
+----------------
+----------------
+Name: containerd
+voluntary_ctxt_switches: 311 nonvoluntary_ctxt_switches: 13
+----------------
+----------------
+Name: migration/1
+voluntary_ctxt_switches: 2532 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: lightdm
+voluntary_ctxt_switches: 191 nonvoluntary_ctxt_switches: 7
+----------------
+----------------
+Name: charger_manager
+voluntary_ctxt_switches: 2 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: ksoftirqd/1
+voluntary_ctxt_switches: 30085 nonvoluntary_ctxt_switches: 8
+----------------
+----------------
+Name: Xorg
+voluntary_ctxt_switches: 97070478 nonvoluntary_ctxt_switches: 137938
+----------------
+----------------
+Name: sshd
+voluntary_ctxt_switches: 9 nonvoluntary_ctxt_switches: 7
+----------------
+----------------
+Name: bash
+voluntary_ctxt_switches: 68 nonvoluntary_ctxt_switches: 3
+----------------
+----------------
+Name: dhclient
+voluntary_ctxt_switches: 881 nonvoluntary_ctxt_switches: 7
+----------------
+----------------
+Name: dnsmasq
+voluntary_ctxt_switches: 26876 nonvoluntary_ctxt_switches: 20
+----------------
+----------------
+Name: chromium-browse
+voluntary_ctxt_switches: 214463 nonvoluntary_ctxt_switches: 1298
+----------------
+----------------
+Name: kworker/1:0H
+voluntary_ctxt_switches: 9 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: chromium-browse
+voluntary_ctxt_switches: 16847 nonvoluntary_ctxt_switches: 354
+----------------
+----------------
+Name: chromium-browse
+voluntary_ctxt_switches: 1219 nonvoluntary_ctxt_switches: 27
+----------------
+----------------
+Name: gvfsd-network
+voluntary_ctxt_switches: 302 nonvoluntary_ctxt_switches: 3
+----------------
+----------------
+Name: gvfsd-smb-brows
+voluntary_ctxt_switches: 353 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: gvfsd-dnssd
+voluntary_ctxt_switches: 1417 nonvoluntary_ctxt_switches: 9
+----------------
+----------------
+Name: cpuhp/2
+voluntary_ctxt_switches: 18 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: chromium-browse
+voluntary_ctxt_switches: 83047 nonvoluntary_ctxt_switches: 2648
+----------------
+----------------
+Name: teamviewerd
+voluntary_ctxt_switches: 254099 nonvoluntary_ctxt_switches: 36
+----------------
+----------------
+Name: kthreadd
+voluntary_ctxt_switches: 2917 nonvoluntary_ctxt_switches: 9
+----------------
+----------------
+Name: watchdog/2
+voluntary_ctxt_switches: 108908 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: TeamViewer
+voluntary_ctxt_switches: 691021 nonvoluntary_ctxt_switches: 2338
+----------------
+----------------
+Name: gconfd-2
+voluntary_ctxt_switches: 4274 nonvoluntary_ctxt_switches: 5
+----------------
+----------------
+Name: chromium-browse
+voluntary_ctxt_switches: 501991 nonvoluntary_ctxt_switches: 7023
+----------------
+----------------
+Name: chromium-browse
+voluntary_ctxt_switches: 1054695 nonvoluntary_ctxt_switches: 12153
+----------------
+----------------
+Name: migration/2
+voluntary_ctxt_switches: 2613 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: whoopsie
+voluntary_ctxt_switches: 228 nonvoluntary_ctxt_switches: 15
+----------------
+----------------
+Name: dockerd
+voluntary_ctxt_switches: 542 nonvoluntary_ctxt_switches: 21
+----------------
+----------------
+Name: scsi_eh_0
+voluntary_ctxt_switches: 33 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: scsi_tmf_0
+voluntary_ctxt_switches: 2 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: agetty
+voluntary_ctxt_switches: 8 nonvoluntary_ctxt_switches: 13
+----------------
+----------------
+Name: scsi_eh_1
+voluntary_ctxt_switches: 3 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: ksoftirqd/2
+voluntary_ctxt_switches: 16729 nonvoluntary_ctxt_switches: 3
+----------------
+----------------
+Name: scsi_tmf_1
+voluntary_ctxt_switches: 2 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: scsi_eh_2
+voluntary_ctxt_switches: 3 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: scsi_tmf_2
+voluntary_ctxt_switches: 2 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: scsi_eh_3
+voluntary_ctxt_switches: 3 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: scsi_tmf_3
+voluntary_ctxt_switches: 2 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: scsi_eh_4
+voluntary_ctxt_switches: 70 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: scsi_tmf_4
+voluntary_ctxt_switches: 2 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: scsi_eh_5
+voluntary_ctxt_switches: 3 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: scsi_tmf_5
+voluntary_ctxt_switches: 2 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: i915/signal:0
+voluntary_ctxt_switches: 115868 nonvoluntary_ctxt_switches: 2
+----------------
+----------------
+Name: i915/signal:1
+voluntary_ctxt_switches: 115846 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: i915/signal:2
+voluntary_ctxt_switches: 115846 nonvoluntary_ctxt_switches: 1
+----------------
+----------------
+Name: i915/signal:4
+voluntary_ctxt_switches: 115846 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: chromium-browse
+voluntary_ctxt_switches: 42407 nonvoluntary_ctxt_switches: 2429
+----------------
+----------------
+Name: lightdm
+voluntary_ctxt_switches: 33 nonvoluntary_ctxt_switches: 1
+----------------
+----------------
+Name: kworker/2:0H
+voluntary_ctxt_switches: 9 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: chromium-browse
+voluntary_ctxt_switches: 190894 nonvoluntary_ctxt_switches: 1238
+----------------
+----------------
+Name: rtkit-daemon
+voluntary_ctxt_switches: 491 nonvoluntary_ctxt_switches: 13
+----------------
+----------------
+Name: kworker/6:1H
+voluntary_ctxt_switches: 14856 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: cpuhp/3
+voluntary_ctxt_switches: 18 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: spotify
+voluntary_ctxt_switches: 92109 nonvoluntary_ctxt_switches: 686
+----------------
+----------------
+Name: spotify
+voluntary_ctxt_switches: 8 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: spotify
+voluntary_ctxt_switches: 19787 nonvoluntary_ctxt_switches: 98
+----------------
+----------------
+Name: spotify
+voluntary_ctxt_switches: 79323 nonvoluntary_ctxt_switches: 2266
+----------------
+----------------
+Name: watchdog/3
+voluntary_ctxt_switches: 108908 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: containerd-shim
+voluntary_ctxt_switches: 49 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: bash
+voluntary_ctxt_switches: 293 nonvoluntary_ctxt_switches: 14
+----------------
+----------------
+Name: tmux
+voluntary_ctxt_switches: 45 nonvoluntary_ctxt_switches: 1
+----------------
+----------------
+Name: tmux
+voluntary_ctxt_switches: 39600 nonvoluntary_ctxt_switches: 240
+----------------
+----------------
+Name: bash
+voluntary_ctxt_switches: 104 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: vim
+voluntary_ctxt_switches: 4070 nonvoluntary_ctxt_switches: 256
+----------------
+----------------
+Name: bash
+voluntary_ctxt_switches: 150 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: migration/3
+voluntary_ctxt_switches: 2803 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: spotify
+voluntary_ctxt_switches: 312626 nonvoluntary_ctxt_switches: 2389
+----------------
+----------------
+Name: spotify
+voluntary_ctxt_switches: 28 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: spotify
+voluntary_ctxt_switches: 260402 nonvoluntary_ctxt_switches: 1614
+----------------
+----------------
+Name: kworker/1:1H
+voluntary_ctxt_switches: 5357 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: spotify
+voluntary_ctxt_switches: 355458 nonvoluntary_ctxt_switches: 5362
+----------------
+----------------
+Name: kworker/4:1H
+voluntary_ctxt_switches: 1219509 nonvoluntary_ctxt_switches: 30
+----------------
+----------------
+Name: vim
+voluntary_ctxt_switches: 2052 nonvoluntary_ctxt_switches: 159
+----------------
+----------------
+Name: bash
+voluntary_ctxt_switches: 350 nonvoluntary_ctxt_switches: 2
+----------------
+----------------
+Name: bash
+voluntary_ctxt_switches: 542 nonvoluntary_ctxt_switches: 6
+----------------
+----------------
+Name: dnsmasq
+voluntary_ctxt_switches: 165 nonvoluntary_ctxt_switches: 3
+----------------
+----------------
+Name: dnsmasq
+voluntary_ctxt_switches: 1 nonvoluntary_ctxt_switches: 1
+----------------
+----------------
+Name: jbd2/sda1-8
+voluntary_ctxt_switches: 413933 nonvoluntary_ctxt_switches: 4447
+----------------
+----------------
+Name: ext4-rsv-conver
+voluntary_ctxt_switches: 2 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: bash
+voluntary_ctxt_switches: 81 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: upowerd
+voluntary_ctxt_switches: 1023 nonvoluntary_ctxt_switches: 11
+----------------
+----------------
+Name: ksoftirqd/3
+voluntary_ctxt_switches: 11485 nonvoluntary_ctxt_switches: 2
+----------------
+----------------
+Name: cupsd
+voluntary_ctxt_switches: 75 nonvoluntary_ctxt_switches: 20
+----------------
+----------------
+Name: cups-browsed
+voluntary_ctxt_switches: 104 nonvoluntary_ctxt_switches: 18
+----------------
+----------------
+Name: dbus
+voluntary_ctxt_switches: 8 nonvoluntary_ctxt_switches: 3
+----------------
+----------------
+Name: systemd
+voluntary_ctxt_switches: 218 nonvoluntary_ctxt_switches: 5
+----------------
+----------------
+Name: (sd-pam)
+voluntary_ctxt_switches: 1 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: gnome-keyring-d
+voluntary_ctxt_switches: 4671 nonvoluntary_ctxt_switches: 41
+----------------
+----------------
+Name: upstart
+voluntary_ctxt_switches: 4828 nonvoluntary_ctxt_switches: 1068
+----------------
+----------------
+Name: chromium-browse
+voluntary_ctxt_switches: 12830379 nonvoluntary_ctxt_switches: 115672
+----------------
+----------------
+Name: chromium-browse
+voluntary_ctxt_switches: 12 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: chromium-browse
+voluntary_ctxt_switches: 11216 nonvoluntary_ctxt_switches: 2445
+----------------
+----------------
+Name: chromium-browse
+voluntary_ctxt_switches: 11695325 nonvoluntary_ctxt_switches: 185021
+----------------
+----------------
+Name: chromium-browse
+voluntary_ctxt_switches: 15 nonvoluntary_ctxt_switches: 1
+----------------
+----------------
+Name: upstart-udev-br
+voluntary_ctxt_switches: 12555 nonvoluntary_ctxt_switches: 99
+----------------
+----------------
+Name: chromium-browse
+voluntary_ctxt_switches: 1486 nonvoluntary_ctxt_switches: 2
+----------------
+----------------
+Name: kworker/3:0H
+voluntary_ctxt_switches: 9 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: chromium-browse
+voluntary_ctxt_switches: 216488 nonvoluntary_ctxt_switches: 5213
+----------------
+----------------
+Name: chromium-browse
+voluntary_ctxt_switches: 97653 nonvoluntary_ctxt_switches: 2666
+----------------
+----------------
+Name: chromium-browse
+voluntary_ctxt_switches: 6100 nonvoluntary_ctxt_switches: 38
+----------------
+----------------
+Name: dbus-daemon
+voluntary_ctxt_switches: 165293 nonvoluntary_ctxt_switches: 3432
+----------------
+----------------
+Name: kworker/2:1H
+voluntary_ctxt_switches: 4761 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: window-stack-br
+voluntary_ctxt_switches: 4702 nonvoluntary_ctxt_switches: 147
+----------------
+----------------
+Name: systemd-journal
+voluntary_ctxt_switches: 9483 nonvoluntary_ctxt_switches: 73
+----------------
+----------------
+Name: cpuhp/4
+voluntary_ctxt_switches: 18 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: ibus-daemon
+voluntary_ctxt_switches: 464907 nonvoluntary_ctxt_switches: 3903
+----------------
+----------------
+Name: chromium-browse
+voluntary_ctxt_switches: 1330027 nonvoluntary_ctxt_switches: 7743
+----------------
+----------------
+Name: watchdog/4
+voluntary_ctxt_switches: 108908 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: migration/4
+voluntary_ctxt_switches: 2151 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: upstart-dbus-br
+voluntary_ctxt_switches: 60141 nonvoluntary_ctxt_switches: 462
+----------------
+----------------
+Name: upstart-dbus-br
+voluntary_ctxt_switches: 20058 nonvoluntary_ctxt_switches: 72
+----------------
+----------------
+Name: upstart-file-br
+voluntary_ctxt_switches: 7629 nonvoluntary_ctxt_switches: 26
+----------------
+----------------
+Name: gvfsd
+voluntary_ctxt_switches: 440 nonvoluntary_ctxt_switches: 10
+----------------
+----------------
+Name: gvfsd-fuse
+voluntary_ctxt_switches: 3 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: ibus-dconf
+voluntary_ctxt_switches: 73 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: ibus-ui-gtk3
+voluntary_ctxt_switches: 194075 nonvoluntary_ctxt_switches: 1733
+----------------
+----------------
+Name: bamfdaemon
+voluntary_ctxt_switches: 320457 nonvoluntary_ctxt_switches: 7386
+----------------
+----------------
+Name: ibus-x11
+voluntary_ctxt_switches: 86371 nonvoluntary_ctxt_switches: 575
+----------------
+----------------
+Name: ksoftirqd/4
+voluntary_ctxt_switches: 40251 nonvoluntary_ctxt_switches: 242
+----------------
+----------------
+Name: at-spi-bus-laun
+voluntary_ctxt_switches: 49 nonvoluntary_ctxt_switches: 1
+----------------
+----------------
+Name: dbus-daemon
+voluntary_ctxt_switches: 27953 nonvoluntary_ctxt_switches: 135
+----------------
+----------------
+Name: kworker/7:1H
+voluntary_ctxt_switches: 7127 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: at-spi2-registr
+voluntary_ctxt_switches: 268579 nonvoluntary_ctxt_switches: 1933
+----------------
+----------------
+Name: gpg-agent
+voluntary_ctxt_switches: 224807 nonvoluntary_ctxt_switches: 237
+----------------
+----------------
+Name: hud-service
+voluntary_ctxt_switches: 93744 nonvoluntary_ctxt_switches: 1650
+----------------
+----------------
+Name: unity-settings-
+voluntary_ctxt_switches: 111779 nonvoluntary_ctxt_switches: 2652
+----------------
+----------------
+Name: ibus-engine-sim
+voluntary_ctxt_switches: 155658 nonvoluntary_ctxt_switches: 414
+----------------
+----------------
+Name: gnome-session-b
+voluntary_ctxt_switches: 7757 nonvoluntary_ctxt_switches: 108
+----------------
+----------------
+Name: check_gl_textur
+voluntary_ctxt_switches: 45 nonvoluntary_ctxt_switches: 15
+----------------
+----------------
+Name: unity-panel-ser
+voluntary_ctxt_switches: 560458 nonvoluntary_ctxt_switches: 4241
+----------------
+----------------
+Name: dconf-service
+voluntary_ctxt_switches: 307 nonvoluntary_ctxt_switches: 4
+----------------
+----------------
+Name: pulseaudio
+voluntary_ctxt_switches: 8420750 nonvoluntary_ctxt_switches: 109779
+----------------
+----------------
+Name: indicator-messa
+voluntary_ctxt_switches: 171 nonvoluntary_ctxt_switches: 8
+----------------
+----------------
+Name: indicator-bluet
+voluntary_ctxt_switches: 38 nonvoluntary_ctxt_switches: 1
+----------------
+----------------
+Name: indicator-power
+voluntary_ctxt_switches: 203 nonvoluntary_ctxt_switches: 1
+----------------
+----------------
+Name: systemd-udevd
+voluntary_ctxt_switches: 13371 nonvoluntary_ctxt_switches: 501
+----------------
+----------------
+Name: indicator-datet
+voluntary_ctxt_switches: 8246 nonvoluntary_ctxt_switches: 45
+----------------
+----------------
+Name: indicator-keybo
+voluntary_ctxt_switches: 73684 nonvoluntary_ctxt_switches: 512
+----------------
+----------------
+Name: indicator-sound
+voluntary_ctxt_switches: 9747 nonvoluntary_ctxt_switches: 678
+----------------
+----------------
+Name: indicator-print
+voluntary_ctxt_switches: 71807 nonvoluntary_ctxt_switches: 536
+----------------
+----------------
+Name: indicator-sessi
+voluntary_ctxt_switches: 5264 nonvoluntary_ctxt_switches: 53
+----------------
+----------------
+Name: indicator-appli
+voluntary_ctxt_switches: 3168 nonvoluntary_ctxt_switches: 47
+----------------
+----------------
+Name: kworker/4:0H
+voluntary_ctxt_switches: 9 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: evolution-sourc
+voluntary_ctxt_switches: 277 nonvoluntary_ctxt_switches: 3
+----------------
+----------------
+Name: compiz
+voluntary_ctxt_switches: 10110441 nonvoluntary_ctxt_switches: 200855
+----------------
+----------------
+Name: evolution-calen
+voluntary_ctxt_switches: 446 nonvoluntary_ctxt_switches: 3
+----------------
+----------------
+Name: polkit-gnome-au
+voluntary_ctxt_switches: 75652 nonvoluntary_ctxt_switches: 535
+----------------
+----------------
+Name: nm-applet
+voluntary_ctxt_switches: 73051 nonvoluntary_ctxt_switches: 516
+----------------
+----------------
+Name: gnome-software
+voluntary_ctxt_switches: 154635 nonvoluntary_ctxt_switches: 818
+----------------
+----------------
+Name: cpuhp/5
+voluntary_ctxt_switches: 18 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: unity-fallback-
+voluntary_ctxt_switches: 76815 nonvoluntary_ctxt_switches: 528
+----------------
+----------------
+Name: nautilus
+voluntary_ctxt_switches: 65632 nonvoluntary_ctxt_switches: 600
+----------------
+----------------
+Name: gvfs-udisks2-vo
+voluntary_ctxt_switches: 1685 nonvoluntary_ctxt_switches: 17
+----------------
+----------------
+Name: fwupd
+voluntary_ctxt_switches: 8173 nonvoluntary_ctxt_switches: 169
+----------------
+----------------
+Name: udisksd
+voluntary_ctxt_switches: 2171 nonvoluntary_ctxt_switches: 103
+----------------
+----------------
+Name: watchdog/5
+voluntary_ctxt_switches: 108908 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: gvfs-mtp-volume
+voluntary_ctxt_switches: 111 nonvoluntary_ctxt_switches: 2
+----------------
+----------------
+Name: gvfs-afc-volume
+voluntary_ctxt_switches: 107 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: gvfs-gphoto2-vo
+voluntary_ctxt_switches: 116 nonvoluntary_ctxt_switches: 4
+----------------
+----------------
+Name: gvfs-goa-volume
+voluntary_ctxt_switches: 117 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: evolution-calen
+voluntary_ctxt_switches: 245 nonvoluntary_ctxt_switches: 1
+----------------
+----------------
+Name: evolution-addre
+voluntary_ctxt_switches: 33 nonvoluntary_ctxt_switches: 1
+----------------
+----------------
+Name: evolution-calen
+voluntary_ctxt_switches: 225 nonvoluntary_ctxt_switches: 8
+----------------
+----------------
+Name: migration/5
+voluntary_ctxt_switches: 2679 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: gvfsd-trash
+voluntary_ctxt_switches: 546 nonvoluntary_ctxt_switches: 2
+----------------
+----------------
+Name: evolution-addre
+voluntary_ctxt_switches: 119 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: gvfsd-metadata
+voluntary_ctxt_switches: 52 nonvoluntary_ctxt_switches: 1
+----------------
+----------------
+Name: zeitgeist-datah
+voluntary_ctxt_switches: 518 nonvoluntary_ctxt_switches: 17
+----------------
+----------------
+Name: sh
+voluntary_ctxt_switches: 2 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: zeitgeist-daemo
+voluntary_ctxt_switches: 5413 nonvoluntary_ctxt_switches: 59
+----------------
+----------------
+Name: zeitgeist-fts
+voluntary_ctxt_switches: 5460 nonvoluntary_ctxt_switches: 118
+----------------
+----------------
+Name: kworker/0:0H
+voluntary_ctxt_switches: 8 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: ksoftirqd/5
+voluntary_ctxt_switches: 53425 nonvoluntary_ctxt_switches: 24
+----------------
+----------------
+Name: gnome-terminal-
+voluntary_ctxt_switches: 314539 nonvoluntary_ctxt_switches: 3924
+----------------
+----------------
+Name: bash
+voluntary_ctxt_switches: 95 nonvoluntary_ctxt_switches: 2
+----------------
+----------------
+Name: update-notifier
+voluntary_ctxt_switches: 81918 nonvoluntary_ctxt_switches: 572
+----------------
+----------------
+Name: kworker/5:0H
+voluntary_ctxt_switches: 9 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: deja-dup-monito
+voluntary_ctxt_switches: 205 nonvoluntary_ctxt_switches: 2
+----------------
+----------------
+Name: cpuhp/6
+voluntary_ctxt_switches: 18 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: watchdog/6
+voluntary_ctxt_switches: 108908 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: migration/6
+voluntary_ctxt_switches: 2566 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: ksoftirqd/6
+voluntary_ctxt_switches: 7085 nonvoluntary_ctxt_switches: 2
+----------------
+----------------
+Name: systemd-timesyn
+voluntary_ctxt_switches: 4055 nonvoluntary_ctxt_switches: 27
+----------------
+----------------
+Name: kworker/3:1H
+voluntary_ctxt_switches: 4499 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: kworker/5:1H
+voluntary_ctxt_switches: 15873 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: kworker/6:0H
+voluntary_ctxt_switches: 9 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: cpuhp/7
+voluntary_ctxt_switches: 18 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: unity-scope-hom
+voluntary_ctxt_switches: 1566 nonvoluntary_ctxt_switches: 19
+----------------
+----------------
+Name: unity-scope-loa
+voluntary_ctxt_switches: 534 nonvoluntary_ctxt_switches: 21
+----------------
+----------------
+Name: unity-files-dae
+voluntary_ctxt_switches: 1602 nonvoluntary_ctxt_switches: 8
+----------------
+----------------
+Name: unity-music-dae
+voluntary_ctxt_switches: 29 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: gvfsd-http
+voluntary_ctxt_switches: 752 nonvoluntary_ctxt_switches: 5
+----------------
+----------------
+Name: watchdog/7
+voluntary_ctxt_switches: 108908 nonvoluntary_ctxt_switches: 1
+----------------
+----------------
+Name: migration/7
+voluntary_ctxt_switches: 2413 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: ksoftirqd/7
+voluntary_ctxt_switches: 8041 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: kworker/7:0H
+voluntary_ctxt_switches: 9 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: kdevtmpfs
+voluntary_ctxt_switches: 247 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: netns
+voluntary_ctxt_switches: 2 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: irq/30-mei_me
+voluntary_ctxt_switches: 15 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: rcu_tasks_kthre
+voluntary_ctxt_switches: 2 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: kworker/3:0
+voluntary_ctxt_switches: 1334 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: kauditd
+voluntary_ctxt_switches: 65 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: kworker/2:0
+voluntary_ctxt_switches: 12 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: kworker/0:1H
+voluntary_ctxt_switches: 5384 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: mm_percpu_wq
+voluntary_ctxt_switches: 2 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: chromium-browse
+voluntary_ctxt_switches: 1208 nonvoluntary_ctxt_switches: 139
+----------------
+----------------
+Name: khungtaskd
+voluntary_ctxt_switches: 3607 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: chromium-browse
+voluntary_ctxt_switches: 16638 nonvoluntary_ctxt_switches: 980
+----------------
+----------------
+Name: oom_reaper
+voluntary_ctxt_switches: 2 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: writeback
+voluntary_ctxt_switches: 2 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: kcompactd0
+voluntary_ctxt_switches: 2 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: ksmd
+voluntary_ctxt_switches: 3 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: kworker/4:2
+voluntary_ctxt_switches: 9477 nonvoluntary_ctxt_switches: 5
+----------------
+----------------
+Name: khugepaged
+voluntary_ctxt_switches: 2 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: kworker/1:2
+voluntary_ctxt_switches: 2569 nonvoluntary_ctxt_switches: 1
+----------------
+----------------
+Name: crypto
+voluntary_ctxt_switches: 2 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: kintegrityd
+voluntary_ctxt_switches: 2 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: kblockd
+voluntary_ctxt_switches: 2 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: kworker/7:1
+voluntary_ctxt_switches: 1673 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: ksoftirqd/0
+voluntary_ctxt_switches: 65128 nonvoluntary_ctxt_switches: 37
+----------------
+----------------
+Name: chromium-browse
+voluntary_ctxt_switches: 308333 nonvoluntary_ctxt_switches: 3080
+----------------
+----------------
+Name: chromium-browse
+voluntary_ctxt_switches: 59365 nonvoluntary_ctxt_switches: 875
+----------------
+----------------
+Name: bash
+voluntary_ctxt_switches: 116 nonvoluntary_ctxt_switches: 5
+----------------
+----------------
+Name: ata_sff
+voluntary_ctxt_switches: 2 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: md
+voluntary_ctxt_switches: 2 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: edac-poller
+voluntary_ctxt_switches: 2 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: devfreq_wq
+voluntary_ctxt_switches: 2 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: watchdogd
+voluntary_ctxt_switches: 2 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: sudo
+voluntary_ctxt_switches: 3 nonvoluntary_ctxt_switches: 1
+----------------
+----------------
+Name: docker
+voluntary_ctxt_switches: 2525 nonvoluntary_ctxt_switches: 134
+----------------
+----------------
+Name: kworker/4:0
+voluntary_ctxt_switches: 2 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: rcu_sched
+voluntary_ctxt_switches: 16410739 nonvoluntary_ctxt_switches: 996
+----------------
+----------------
+Name: kswapd0
+voluntary_ctxt_switches: 7294 nonvoluntary_ctxt_switches: 9482
+----------------
+----------------
+Name: kworker/u17:0
+voluntary_ctxt_switches: 3 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: ecryptfs-kthrea
+voluntary_ctxt_switches: 2 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: kworker/1:1
+voluntary_ctxt_switches: 2102 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: kworker/5:2
+voluntary_ctxt_switches: 2186 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: kworker/6:2
+voluntary_ctxt_switches: 709 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: kworker/u16:3
+voluntary_ctxt_switches: 5106 nonvoluntary_ctxt_switches: 61
+----------------
+----------------
+Name: kworker/2:2
+voluntary_ctxt_switches: 1459 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: kworker/u16:2
+voluntary_ctxt_switches: 3567 nonvoluntary_ctxt_switches: 50
+----------------
+----------------
+Name: cron
+voluntary_ctxt_switches: 8145 nonvoluntary_ctxt_switches: 21
+----------------
+----------------
+Name: accounts-daemon
+voluntary_ctxt_switches: 5066 nonvoluntary_ctxt_switches: 27
+----------------
+----------------
+Name: dbus-daemon
+voluntary_ctxt_switches: 32307 nonvoluntary_ctxt_switches: 517
+----------------
+----------------
+Name: kworker/5:0
+voluntary_ctxt_switches: 2 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: kworker/0:2
+voluntary_ctxt_switches: 4 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: rcu_bh
+voluntary_ctxt_switches: 7 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: kworker/u16:0
+voluntary_ctxt_switches: 4236 nonvoluntary_ctxt_switches: 15
+----------------
+----------------
+Name: kworker/7:2
+voluntary_ctxt_switches: 1080 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: kworker/3:1
+voluntary_ctxt_switches: 767 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: bash
+voluntary_ctxt_switches: 221 nonvoluntary_ctxt_switches: 4
+----------------
+----------------
+Name: chromium-browse
+voluntary_ctxt_switches: 3791 nonvoluntary_ctxt_switches: 35
+----------------
+----------------
+Name: chromium-browse
+voluntary_ctxt_switches: 52 nonvoluntary_ctxt_switches: 3
+----------------
+----------------
+Name: kworker/6:0
+voluntary_ctxt_switches: 708 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: kworker/0:0
+voluntary_ctxt_switches: 756 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: kworker/u16:1
+voluntary_ctxt_switches: 2 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: chromium-browse
+voluntary_ctxt_switches: 396764 nonvoluntary_ctxt_switches: 6875
+----------------
+----------------
+Name: avahi-daemon
+voluntary_ctxt_switches: 143048 nonvoluntary_ctxt_switches: 156
+----------------
+----------------
+Name: cgmanager
+voluntary_ctxt_switches: 5 nonvoluntary_ctxt_switches: 6
+----------------
+----------------
+Name: rsyslogd
+voluntary_ctxt_switches: 747 nonvoluntary_ctxt_switches: 18
+----------------
+----------------
+Name: chromium-browse
+voluntary_ctxt_switches: 860868 nonvoluntary_ctxt_switches: 16783
+----------------
+----------------
+Name: ModemManager
+voluntary_ctxt_switches: 145 nonvoluntary_ctxt_switches: 18
+----------------
+----------------
+Name: systemd-logind
+voluntary_ctxt_switches: 9970 nonvoluntary_ctxt_switches: 45
+----------------
+----------------
+Name: vivado
+voluntary_ctxt_switches: 23 nonvoluntary_ctxt_switches: 0
+----------------
+----------------
+Name: loader
+voluntary_ctxt_switches: 11 nonvoluntary_ctxt_switches: 3
+----------------
+----------------
+Name: vivado
+voluntary_ctxt_switches: 2 nonvoluntary_ctxt_switches: 3
+----------------
+----------------
+Name: avahi-daemon
+voluntary_ctxt_switches: 2 nonvoluntary_ctxt_switches: 0
+----------------

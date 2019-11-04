@@ -1,0 +1,24 @@
+# Link: Blog do Eli Bendersky
+> https://eli.thegreenplace.net/2018/measuring-context-switching-and-memory-overheads-for-linux-threads/
+
+# Link: Descrição dos modelos de context-switching
+> https://github.com/emb-riscv/specs-markdown/blob/develop/interrupts-use-cases.md#dedicated-context-switch-interrupt
+
+# Link: dump das instruções
+> https://github.com/slavaim/riscv-notes/blob/master/magenta/context_switch.md
+
+# Working caches size influenciam na troca de contexto
+
+# Ver as médias de troca da contexto por segundo
+# pra isso é preciso instalar o sudo apt install sysstat
+pidstat -w 10 1
+pidstat -wt
+
+# Pelo perf
+# preciso instalar -> sudo apt install linux-tools-generic linux-cloud-tools-generic
+# sudo apt install linux-tools-4.15.0-65-generic linux-cloud-tools-4.15.0-65-generic
+# Gravar quantas trocas de contextos houveram na máquina
+# < Pode colocar o menos -g no final pra mais informações >
+sudo perf record -e context-switches -a
+# Pegar os resultados
+sudo perf repost 
