@@ -1,4 +1,4 @@
-# SO Topics 2019.2
+# Tópicos em SO 2019.2
 
 # Blog do Eli Bendersky
 > https://eli.thegreenplace.net/2018/measuring-context-switching-and-memory-overheads-for-linux-threads/
