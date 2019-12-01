@@ -9,6 +9,9 @@
 # Dump das instruções RISC-V
 > https://github.com/slavaim/riscv-notes/blob/master/magenta/context_switch.md'
 
+# QEMU RISC-V Busybear
+> https://risc-v-getting-started-guide.readthedocs.io/en/latest/linux-qemu.html
+
 # LMBench - Tools for performance analysis
 > http://lmbench.sourceforge.net
 
