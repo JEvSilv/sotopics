@@ -6,8 +6,11 @@
 # Descrição dos modelos de context-switching
 > https://github.com/emb-riscv/specs-markdown/blob/develop/interrupts-use-cases.md#dedicated-context-switch-interrupt
 
-# Link: dump das instruções
+# Dump das instruções RISC-V
 > https://github.com/slavaim/riscv-notes/blob/master/magenta/context_switch.md'
+
+# LMBench - Tools for performance analysis
+> http://lmbench.sourceforge.net
 
 # Ver as médias de troca da contexto por segundo
 - Para isso é preciso instalar:
