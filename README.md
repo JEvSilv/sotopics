@@ -40,7 +40,7 @@ sudo perf record -e context-switches -a
 ```
 - Pegar os resultados:
 ```
-sudo perf repost 
+sudo perf report 
 ```
 # Scripts
 - Verificar, através dos scripts, os contextos por processos que estão executando (talvez precise do sudo):
