@@ -1,9 +1,9 @@
 # SO Topics 2019.2
 
-# Link: Blog do Eli Bendersky
+# Blog do Eli Bendersky
 > https://eli.thegreenplace.net/2018/measuring-context-switching-and-memory-overheads-for-linux-threads/
 
-# Link: Descrição dos modelos de context-switching
+# Descrição dos modelos de context-switching
 > https://github.com/emb-riscv/specs-markdown/blob/develop/interrupts-use-cases.md#dedicated-context-switch-interrupt
 
 # Link: dump das instruções
@@ -20,7 +20,7 @@ pidstat -w 10 1
 pidstat -wt
 ```
 
-# Gravar quantas trocas de contextos houveram na máquina
+# Trocas de contextos houveram na máquina
 - Uso do perf, é necessário:
 ```
 sudo apt install linux-tools-generic linux-cloud-tools-generic
@@ -32,9 +32,10 @@ sudo apt install linux-tools-4.15.0-65-generic linux-cloud-tools-4.15.0-65-gener
 ```
 sudo perf record -e context-switches -a
 ```
-- Pegar os resultados
+- Pegar os resultados:
+```
 sudo perf repost 
-
+```
 # Scripts
 - Verificar, através dos scripts, os contextos por processos que estão executando (talvez precise do sudo):
 ```
